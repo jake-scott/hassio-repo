@@ -20,6 +20,7 @@
   "schema": {
     "http_port": "int?",
     "https_port": "int?",
+    "listen_ip": "str?",
     "tag_commit_or_branch": "str",
     "use_default_ports_for_discovery": "bool?",
     "verbose": "bool"
